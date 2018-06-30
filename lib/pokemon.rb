@@ -1,4 +1,4 @@
-db = SQLite3::Database.new('db/my_database.db')
+db = SQLite3::Database.new('db/pokemon.db')
 
 class Pokemon
   
