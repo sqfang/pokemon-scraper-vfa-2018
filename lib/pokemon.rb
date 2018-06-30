@@ -6,5 +6,5 @@ class Pokemon
   
   def initialize
 end
-  def 
+  def self.save
 end
