@@ -4,5 +4,7 @@ class Pokemon
   #sql_runner = SQLRunner.initialize(db)
   #sql_runner.execute_schema_migration_sql
   
+  def initialize
+end
   def 
 end
