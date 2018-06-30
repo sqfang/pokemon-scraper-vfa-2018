@@ -8,6 +8,6 @@ class Pokemon
   end
   def self.save(name, type, db)
   end
-  def self.find 
+  def self.find(name, type db) 
   end
 end
